@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://c2op0wum8r42l"]
 
 [ext_resource type="Texture2D" uid="uid://bgup4f2f6yhqk" path="res://Image/Button/ButtonErase.png" id="1_75qdg"]
-[ext_resource type="Script" path="res://Script/Scene/title.gd" id="1_gcboo"]
+[ext_resource type="Script" uid="uid://s3tvt67kqjs" path="res://Script/Scene/title.gd" id="1_gcboo"]
 [ext_resource type="Texture2D" uid="uid://r46d5j3o4ogu" path="res://Image/Button/ButtonStart.png" id="2_gcboo"]
 [ext_resource type="Texture2D" uid="uid://cx043osmoclui" path="res://Image/Button/SelectFrame.png" id="4_nn2l1"]
 
